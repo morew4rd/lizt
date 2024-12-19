@@ -19,3 +19,8 @@ Usage
 
 `lizt FOLDER`
 
+
+License
+-------
+
+MIT
